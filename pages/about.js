@@ -1,8 +1,5 @@
 function About() {
-    return <h1> Estou treinando as rotas do meu site! </h1>; 
-}
-function Description() {
-    return <p> Eu estou ficando muito bom nisso! </p>;
+  return <h1> Estou treinando as rotas do meu site! </h1>;
 }
 
-export default About, Description;
+export default About;
